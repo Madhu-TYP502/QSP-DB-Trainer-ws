@@ -69,6 +69,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>Trainer-ws</finalName>
 	</build>
 	<repositories>
 		<repository>
